@@ -10,12 +10,12 @@
 
 /* Variables */
 :root {
-    --avatar-size: 32px;
-    --background-image: url('https://i.imgur.com/7SbtKvw.png');
-    --home-image: url('https://i.imgur.com/233d55Y.gif');
-    --background-solid: #161921;
+    --avatar-size: 31px;
+    --background-image: url('https://www.pinterest.com/pin/22588435620818844/');
+    --home-image: url('https://www.pinterest.com/pin/359443614020410735/');
+    --background-solid: #161921;https://www.pinterest.com/pin/359443614020410735/
     --background-solid-dark: #101218;
-    --background-solid-darker: #0c0e12;
+    --background-solid-darker: #3d5666;#3d5666
     --accent: 37, 172, 232;
     --accent-alt: 29, 101, 134;
 }
